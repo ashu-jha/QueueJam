@@ -1,6 +1,6 @@
 export const SPOTIFY_CONFIG = {
-  clientId: 'YOUR_CLIENT_ID', // Replace with your Spotify Client ID
-  clientSecret: 'YOUR_CLIENT_SECRET', // Replace with your Spotify Client Secret
+  clientId: '4f188e596fdb46ccbcbd620eec2b1a23', // Replace with your Spotify Client ID
+  clientSecret: 'c819d7da89e64ab2af2fe60450dda058', // Replace with your Spotify Client Secret
   redirectUri: `${window.location.origin}/callback`,
   scopes: [
     'streaming',
